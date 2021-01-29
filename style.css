@@ -1,0 +1,10 @@
+.body_backgorund {
+	background-image: url("bg1.jg");
+	background-size: cover;
+	background-position: center;
+}
+#My_Olympic_canvas{
+    background-color: white;
+    border-width: 15px;
+    border-style: ridge;
+    }
